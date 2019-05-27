@@ -1,0 +1,7 @@
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\bin\Release\筆跡旋轉測試.exe.config
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\bin\Release\筆跡旋轉測試.exe
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\obj\Release\筆跡旋轉測試.Form1.resources
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\obj\Release\筆跡旋轉測試.Properties.Resources.resources
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\obj\Release\筆跡旋轉測試.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\obj\Release\筆跡旋轉測試.exe
+C:\Users\VIP\Desktop\筆跡旋轉測試\筆跡旋轉測試\obj\Release\筆跡旋轉測試.csprojResolveAssemblyReference.cache

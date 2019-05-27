@@ -1,0 +1,14 @@
+ for (int i = drawnumber-505; i < drawnumber; i+=2)
+                    {
+                       Pen myPen = new Pen(Color.FromArgb(127, (drawnumber-i)/2, 0, 0), 10);
+                        myPen.StartCap = System.Drawing.Drawing2D.LineCap.Round;
+                        
+                       
+                        g.DrawLine(myPen, drawx[i], drawy[i], drawx2[drawnumber-i], drawy2[drawnumber-i]);
+                     
+                        
+                        pictureBox2.Image = drawImage;
+
+                    }
+                         g.Dispose();
+                    }
